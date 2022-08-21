@@ -1,0 +1,26 @@
+#home {
+    overflow: hidden;
+    height: 690px;
+    padding: 17px 143px;
+}
+
+#services {
+    flex-direction: column;
+}
+
+#clients {
+    overflow: hidden;
+}
+
+#navbar {
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}
